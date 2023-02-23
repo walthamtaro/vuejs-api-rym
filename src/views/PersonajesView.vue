@@ -4,12 +4,8 @@ import Personajes from "../components/Personajes.vue";
 
 <template>
   <div>
-    <h1>Personajes del programa</h1>
+    <h1 class="text-2xl">Personajes del programa</h1>
 
     <Personajes />
   </div>
 </template>
-
-<style>
-
-</style>
